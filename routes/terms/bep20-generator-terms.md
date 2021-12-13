@@ -64,7 +64,7 @@ If you do not agree to any revised Terms, you may not access or use the App.
 We are constantly innovating the App to help provide the best possible experience. You acknowledge and agree that the form and nature of the App, and any part of it, may change from time to time without prior notice to you, and that we may add new features and change any part of the App at any time without notice.
 
 ### Extended Terms and Conditions
-Read our [Terms and Conditions](https://vittominacori.github.io/terms) which are hereby incorporated in these terms by reference.
+Read our [Terms and Conditions](https://bep20.github.io/terms) which are hereby incorporated in these terms by reference.
 
 ## Privacy Policy
 ### What information do we collect?
@@ -109,7 +109,7 @@ If there are material changes to the statement or in how our App will use your p
 We encourage you to periodically review this privacy statement to learn how BEP20 Token Generator is protecting your information.
 
 ### Extended Privacy Policy
-Read our [Privacy Policy](https://vittominacori.github.io/privacy/) which is hereby incorporated in these terms by reference.
+Read our [Privacy Policy](https://bep20.github.io/privacy/) which is hereby incorporated in these terms by reference.
 
 ## How to Contact Us
-If you have a technical or support question, a privacy concern, complaint, or any type of question, please open an issue [here](https://github.com/vittominacori/token-generator/issues) or send a PM to [@Erc20Generator](https://twitter.com/Erc20Generator).
+If you have a technical or support question, a privacy concern, complaint, or any type of question, please open an issue [here](https://github.com/bep20/token-generator/issues) or send a PM to [@bep20Generator](https://twitter.com/bep20Generator).
