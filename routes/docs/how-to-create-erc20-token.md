@@ -4,7 +4,7 @@ title: How to create ERC20 Token
 description:  Create your own ERC20 Token. Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token.
 meta:
     - property: og:url 
-      content: https://vittominacori.github.io/docs/how-to-create-erc20-token/
+      content: https://bep20.github.io/docs/how-to-create-erc20-token/
     - property: og:title
       content: How to create ERC20 Token | Token Generator
     - property: og:description
@@ -28,7 +28,7 @@ Create an ERC20 Token in less than a minute.
 
 ## Create Token
 
-Visit [ERC20 Token Generator](https://vittominacori.github.io/erc20-generator/)
+Visit [ERC20 Token Generator](https://bep20.github.io/erc20-generator/)
 
 ### Choose your token type
 
@@ -114,7 +114,7 @@ There are lots of tokens lost forever into Smart Contracts. It allows the contra
 
 ## View App
 
-Visit [ERC20 Token Generator](https://vittominacori.github.io/erc20-generator/)
+Visit [ERC20 Token Generator](https://bep20.github.io/erc20-generator/)
 
 ## Disclaimer
 
@@ -130,4 +130,4 @@ Before acquiring tokens, it is recommended to carefully weighs all the informati
 :::
 
 ## Contacts
-If you have a technical or support question, a privacy concern, complaint, or any type of question, please open an issue [here](https://github.com/vittominacori/token-generator/issues) or send a PM to [@Erc20Generator](https://twitter.com/Erc20Generator).
+If you have a technical or support question, a privacy concern, complaint, or any type of question, please open an issue [here](https://github.com/bep20/token-generator/issues) or send a PM to [@bep20Generator](https://twitter.com/bep20Generator).
