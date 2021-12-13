@@ -4,7 +4,7 @@ title: How to create BEP20 Token
 description:  Create your own BEP20 Token. Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.
 meta:
     - property: og:url 
-      content: https://vittominacori.github.io/docs/how-to-create-bep20-token/
+      content: https://bep20.github.io/docs/how-to-create-bep20-token/
     - property: og:title
       content: How to create BEP20 Token | Token Generator
     - property: og:description
@@ -28,7 +28,7 @@ Create a BEP20 Token in less than a minute.
 
 ## Create Token
 
-Visit [BEP20 Token Generator](https://vittominacori.github.io/bep20-generator/)
+Visit [BEP20 Token Generator](https://bep20.github.io/bep20-generator/)
 
 ### Choose your token type
 
@@ -107,7 +107,7 @@ There are lots of tokens lost forever into Smart Contracts. It allows the contra
 
 ## View App
 
-Visit [BEP20 Token Generator](https://vittominacori.github.io/bep20-generator/)
+Visit [BEP20 Token Generator](https://bep20.github.io/bep20-generator/)
 
 ## Disclaimer
 
@@ -123,4 +123,4 @@ Before acquiring tokens, it is recommended to carefully weighs all the informati
 :::
 
 ## Contacts
-If you have a technical or support question, a privacy concern, complaint, or any type of question, please open an issue [here](https://github.com/vittominacori/token-generator/issues) or send a PM to [@Erc20Generator](https://twitter.com/Erc20Generator).
+If you have a technical or support question, a privacy concern, complaint, or any type of question, please open an issue [here](https://github.com/bep20/token-generator/issues) or send a PM to [@bep20Generator](https://twitter.com/bep20Generator).
