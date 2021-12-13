@@ -8,7 +8,7 @@ actionLink: /docs/
 navbar: true
 meta: 
     - property: og:url
-      content: https://vittominacori.github.io/
+      content: https://bep20.github.io/
     - property: og:title
       content: Token Generator | Create your own ERC20 or BEP20 Token
     - property: og:description
@@ -37,9 +37,9 @@ Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable
 **No login. No setup. No coding required.**
 
 ## ERC20
-* [Create ERC20 Token](https://vittominacori.github.io/erc20-generator/)
+* [Create ERC20 Token](https://bep20.github.io/erc20-generator/)
 * [Documentation](/docs/how-to-create-erc20-token/)
 
 ## BEP20
-* [Create BEP20 Token](https://vittominacori.github.io/bep20-generator/)
+* [Create BEP20 Token](https://bep20.github.io/bep20-generator/)
 * [Documentation](/docs/how-to-create-bep20-token/)
