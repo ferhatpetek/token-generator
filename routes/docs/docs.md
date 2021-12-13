@@ -4,7 +4,7 @@ title: Docs
 description: Discover how to create your own ERC20 or BEP20 Token in less than a minute.
 meta:
     - property: og:url 
-      content: https://vittominacori.github.io/docs/
+      content: https://bep20.github.io/docs/
     - property: og:title
       content: Docs | Token Generator
     - property: og:description
@@ -29,9 +29,9 @@ To most easily create your ERC20 token, you must first install a browser extensi
 :::
 
 ## ERC20
-* [Create ERC20 Token](https://vittominacori.github.io/erc20-generator/)
+* [Create ERC20 Token](https://bep20.github.io/erc20-generator/)
 * [Documentation](/docs/how-to-create-erc20-token/)
 
 ## BEP20
-* [Create BEP20 Token](https://vittominacori.github.io/bep20-generator/)
+* [Create BEP20 Token](https://bep20.github.io/bep20-generator/)
 * [Documentation](/docs/how-to-create-bep20-token/)
