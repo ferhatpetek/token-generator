@@ -45,5 +45,5 @@ Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable
 * [Documentation](/docs/how-to-create-bep20-token/)
 
 ## Polygon
-* [Create BEP20 Token](https://bep20.github.io/polygon-generator/)
+* [Create MRC20 Token](https://bep20.github.io/polygon-generator/)
 * [Documentation](/docs/how-to-create-bep20-token/)
