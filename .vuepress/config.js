@@ -48,6 +48,7 @@ module.exports = {
         items: [
           { text: 'ERC20', link: 'https://bep20.github.io/erc20-generator/', target: '_self' },
           { text: 'BEP20', link: 'https://bep20.github.io/bep20-generator/', target: '_self' }
+          { text: 'MRC20', link: 'https://bep20.github.io/polygon-generator/', target: '_self' },
         ]
       }
     ]
