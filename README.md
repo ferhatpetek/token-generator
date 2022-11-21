@@ -38,11 +38,11 @@ Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable
 
 ## ERC20
 * [Create ERC20 Token](https://bep20.github.io/erc20-generator/)
-* [Documentation](/docs/how-to-create-erc20-token/)
+* [Documentation](https://bep20.github.io/token-generator/docs/how-to-create-erc20-token/)
 
 ## BEP20
 * [Create BEP20 Token](https://bep20.github.io/bep20-generator/)
-* [Documentation](/docs/how-to-create-bep20-token/)
+* [Documentation](https://bep20.github.io/token-generator/docs/how-to-create-bep20-token/)
 
 ## Polygon
 * [Create MRC20 Token](https://bep20.github.io/polygon-generator/)
